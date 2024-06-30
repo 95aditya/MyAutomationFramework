@@ -81,7 +81,7 @@ namespace EcommerceAutomation.Pages
             var orderSummaryElement = driver.FindElement(By.ClassName("order-sumary")); // Replace with the actual element on the order summary page
             Assert.IsNotNull(orderSummaryElement, "Order Summary page is not displayed.");
 
-            Console.WriteLine("User is redirected to Order Summary Page");
+            Console.WriteLine("User is redirected to Order Summary Page, TestCase Result: Pass");
         }
 
     }

@@ -67,7 +67,7 @@ namespace EcommerceAutomation.Pages
 
             Assert.AreEqual(PName, productName, "The product name does not match the search result.");
 
-            Console.WriteLine("Search functionality verified.");
+            Console.WriteLine("Search functionality verified, TestCase Result: Pass");
 
             #endregion
 

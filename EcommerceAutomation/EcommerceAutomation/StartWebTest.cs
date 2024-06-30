@@ -79,7 +79,8 @@ namespace EcommerceAutomation
             finally
             {
                 // Close the browser
-                driver.Quit();
+                //driver.Quit();
+                Console.WriteLine("Script Execute Success");
             }
         }
       

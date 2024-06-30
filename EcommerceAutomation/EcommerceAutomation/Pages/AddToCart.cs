@@ -67,7 +67,7 @@ namespace EcommerceAutomation.Pages
 
             Assert.AreEqual(PName, productNamedetail, "The product name does not match the search result.");
 
-            Console.WriteLine("Product added to cart.");
+            Console.WriteLine("Product added to cart, TestCase Result: Pass");
         }
 
     }

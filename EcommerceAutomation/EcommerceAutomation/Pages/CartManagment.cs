@@ -68,7 +68,7 @@ namespace EcommerceAutomation.Pages
             //Assert.AreEqual(PName, productNamedetail, "The product name does not match the search result.");
 
 
-            Console.WriteLine("The cart is empty as expected");
+            Console.WriteLine("The cart is empty as expected, TestCase Result: Pass");
         }
 
     }

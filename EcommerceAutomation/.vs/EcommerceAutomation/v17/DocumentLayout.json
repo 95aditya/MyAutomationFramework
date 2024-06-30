@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|c:\\users\\adity\\source\\repos\\ecommerceautomation\\ecommerceautomation\\pages\\cartmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|solutionrelative:ecommerceautomation\\pages\\cartmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|c:\\users\\adity\\source\\repos\\ecommerceautomation\\ecommerceautomation\\pages\\checkoutprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|solutionrelative:ecommerceautomation\\pages\\checkoutprocess.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|c:\\users\\adity\\source\\repos\\ecommerceautomation\\ecommerceautomation\\startwebtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|solutionrelative:ecommerceautomation\\startwebtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|c:\\users\\adity\\source\\repos\\ecommerceautomation\\ecommerceautomation\\pages\\cartmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|solutionrelative:ecommerceautomation\\pages\\cartmanagment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{E61ED084-CA5B-433A-AAFC-86CC624DBA83}|EcommerceAutomation\\EcommerceAutomation.csproj|c:\\users\\adity\\source\\repos\\ecommerceautomation\\ecommerceautomation\\pages\\addtocart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,17 +30,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "CheckOutProcess.cs",
               "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\Pages\\CheckOutProcess.cs",
               "RelativeDocumentMoniker": "EcommerceAutomation\\Pages\\CheckOutProcess.cs",
               "ToolTip": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\Pages\\CheckOutProcess.cs",
               "RelativeToolTip": "EcommerceAutomation\\Pages\\CheckOutProcess.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAFQAAAAIAAAA",
+              "ViewState": "AQIAADkAAAAAAAAAAAAYwFMAAABIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T22:28:29.717Z",
               "EditorCaption": ""
@@ -53,9 +53,10 @@
               "RelativeDocumentMoniker": "EcommerceAutomation\\Pages\\HomePage.cs",
               "ToolTip": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\Pages\\HomePage.cs",
               "RelativeToolTip": "EcommerceAutomation\\Pages\\HomePage.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAAAEEAAABAAAAA",
+              "ViewState": "AQIAACkAAAAAAAAAAAAAAEUAAAA9AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T22:17:25.195Z"
+              "WhenOpened": "2024-06-29T22:17:25.195Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -65,34 +66,36 @@
               "RelativeDocumentMoniker": "EcommerceAutomation\\Pages\\AddToCart.cs",
               "ToolTip": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\Pages\\AddToCart.cs",
               "RelativeToolTip": "EcommerceAutomation\\Pages\\AddToCart.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAowDIAAAAwAAAA",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAowEUAAABLAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T22:15:01.986Z"
+              "WhenOpened": "2024-06-29T22:15:01.986Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "StartWebTest.cs",
               "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\StartWebTest.cs",
               "RelativeDocumentMoniker": "EcommerceAutomation\\StartWebTest.cs",
               "ToolTip": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\StartWebTest.cs",
               "RelativeToolTip": "EcommerceAutomation\\StartWebTest.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAAAEgAAAAMAAAA",
+              "ViewState": "AQIAADcAAAAAAAAAAAAAAFIAAAA8AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-29T22:14:56.082Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "CartManagment.cs",
               "DocumentMoniker": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\Pages\\CartManagment.cs",
               "RelativeDocumentMoniker": "EcommerceAutomation\\Pages\\CartManagment.cs",
               "ToolTip": "C:\\Users\\adity\\source\\repos\\EcommerceAutomation\\EcommerceAutomation\\Pages\\CartManagment.cs",
               "RelativeToolTip": "EcommerceAutomation\\Pages\\CartManagment.cs",
-              "ViewState": "AQIAACUAAAAAAAAAAAAQwCQAAAAMAAAA",
+              "ViewState": "AQIAACsAAAAAAAAAAAAQwDoAAABpAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-29T22:14:48.708Z"
+              "WhenOpened": "2024-06-29T22:14:48.708Z",
+              "EditorCaption": ""
             }
           ]
         }
